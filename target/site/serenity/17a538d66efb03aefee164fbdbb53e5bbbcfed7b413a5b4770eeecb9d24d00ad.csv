@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Understand the usage of background keyword","To check if the user profile icon is displayed","SUCCESS","2021-02-09T19:24:03.613+05:30[Asia/Calcutta]","0.0","0.25"
+"Understand the usage of background keyword","To check if the menu option is displayed","SUCCESS","2021-02-09T19:24:03.865+05:30[Asia/Calcutta]","0.0","0.04"
+"Receiving an item feature","Receiving an item by providing the item barcode","SUCCESS","2021-02-09T19:24:05.863+05:30[Asia/Calcutta]","0.0","0.09"
+"To illustrate the usage of list in feature file","This is a sample scenario to illustrate the usage of list","SUCCESS","2021-02-09T19:24:05.633+05:30[Asia/Calcutta]","0.0","0.02"
